@@ -1,0 +1,20 @@
+{
+  "speech_to_text": {
+    "entrada": "Olá, meu nome é Ari e estou testando o Azure.",
+    "saida": "Olá meu nome é Ari estou testando o Azure."
+  },
+  "text_to_speech": {
+    "entrada": "Seja bem-vindo ao meu projeto no Azure.",
+    "saida": "audio_gerado.wav"
+  },
+  "language_studio": {
+    "analise_sentimento": {
+      "entrada": "Estou muito feliz com a experiência.",
+      "saida": "Positivo"
+    },
+    "extracao_entidades": {
+      "entrada": "A Microsoft lançou novos recursos de IA em 2025.",
+      "saida": ["Microsoft", "IA", "2025"]
+    }
+  }
+}
